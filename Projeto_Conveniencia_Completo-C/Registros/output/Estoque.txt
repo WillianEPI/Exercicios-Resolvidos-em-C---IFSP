@@ -1,0 +1,9 @@
+Coca-Cola
+ 1 5.00 10
+Agua
+ 2 3.50 25
+Heineken
+ 3 7.00 48
+Carvao
+ 4 25.00 10
+
